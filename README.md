@@ -101,10 +101,10 @@ EpicTuner uses **.NET 9** and **Avalonia UI**.
 ## 🏁 Getting Started
 
 1. **Download** the latest release for your OS (When Available).
-2. **Extract** it (password: `Epic`).
+2. **Extract** it.
 3. **Run** `EpicTuner.exe` (Windows) or `EpicTuner` (Mac/Linux).
 4. **Project Setup**: Point it to your ECU's INI file.
-5. **Connect** and start tuning.
+5. **Connect**, Sync, and start tuning.
 
 ---
 
