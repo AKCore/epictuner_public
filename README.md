@@ -139,7 +139,9 @@ Open a "Feature Request" and tell us what you'd like to see.
 ### License
 EpicTuner is **not open source** right now. 
 
-I haven't 100% decided on the long-term license i'm leaning towards a GPL Flavored License, 
+I am not sure if it will be. 
+
+But if it is, I'm leaning towards a GPL Flavored License, 
 
 but for now,
 this repo is for tracking bugs, docs, and alpha builds.
