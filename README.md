@@ -3,6 +3,7 @@
 <p align="center">
   <img src="imgs/ETLogo.png" width="400" alt="EpicTuner Logo">
 </p>
+<img width="1914" height="1110" alt="image" src="https://github.com/user-attachments/assets/dedd7dba-1eff-49c3-9492-f9b68d23483d" />
 
 
 [![Discord Chat](https://dcbadge.limes.pink/api/server/YfWXcVDauE)](https://discord.gg/YfWXcVDauE)
