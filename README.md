@@ -96,7 +96,6 @@ EpicTuner uses **.NET 9** and **Avalonia UI**.
 | macOS | X64 (Intel) | ✅ Supported |
 | Linux | x64 | ✅ Supported |
 | Linux | ARM64 | 🚧 In Progress |
-| Linux | ARMV7 | 🚧 In Progress |
 
 ---
 
@@ -135,7 +134,7 @@ Open a "Feature Request" and tell us what you'd like to see.
 
 ### Heads up
 - MSQ import/export is still being worked on.
-- Mostly tested on **RusEFI** and **EpicEFI** hardware.
+- Mostly tested on **RusEFI** and **EpicEFI** and **Speeduino** hardware.
 - Plugin system is coming later.
 
 ### License
