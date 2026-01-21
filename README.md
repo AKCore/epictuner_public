@@ -128,6 +128,27 @@ Open a "Feature Request" and tell us what you'd like to see.
 
 ---
 
+### Trademark Disclaimer
+
+EpicTuner is an independent, project created for **interoperability purposes** under fair use principles. This software parses ini files created by ecu developers for operation with known software.
+
+The following trademarks are the property of their respective owners:
+
+- **Haltech** is a trademark of Haltech Engine Management Systems
+- **Speeduino** is a trademark of the Speeduino project
+- **rusEFI** is a trademark of the rusEFI project
+- **MegaSquirt** is a trademark of Bowling and Grippo
+
+**EpicTuner is not affiliated with, endorsed by, or sponsored by any of these companies or projects.** All product names, logos, and brands are property of their respective owners and are used solely for identification and interoperability purposes.
+
+### Interoperability Statement
+
+This software is developed under the principles established by [Sega v. Accolade](https://en.wikipedia.org/wiki/Sega_Enterprises,_Ltd._v._Accolade,_Inc.) and similar legal precedents that recognize the legitimacy of reverse engineering for interoperability. EpicTuner
+
+1. **Reads publicly available data** - Parses ini, binary, and other formats that ECU manufacturers provide
+2. **Does not circumvent copy protection** - Works only with user-accessible data files
+3. **Enables data portability** - Allows users to work with their ECUs in a unified, cross-platform tool
+
 ## 🔒 Status & License
 
 **Alpha Release** - EpicTuner is currently in heavy development. 
