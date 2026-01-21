@@ -154,8 +154,7 @@ This software is developed under the principles established by [Sega v. Accolade
 **Alpha Release** - EpicTuner is currently in heavy development. 
 
 ### Heads up
-- MSQ import/export is still being worked on.
-- Mostly tested on **RusEFI** and **EpicEFI** and **Speeduino** hardware.
+- Only tested on **RusEFI**, **EpicEFI**, **FOME** and **Speeduino** hardware.
 - Plugin system is coming later.
 
 ### License
