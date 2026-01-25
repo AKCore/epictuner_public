@@ -52,8 +52,10 @@ EpicTuner uses **.NET 9** and **Avalonia UI**.
 - **Live Connection** - Reliable serial/USB communication.
 - **Tuning Files** - MSQ support is currently in progress.
 - **Definitions** - Working on full INI compatibility.
-- **Scripting** - For ecus that support it, RusEFI and EpicEFI have a Lua API that added a Lua editor for.
+- **Scripting** - For ecus that support it, rusEFI and epicEFI have a Lua API that I added a Sytax aware Lua editor for.
+- **Remote Tuning API** - Currently working on built in remote tuning functionality, that will keep the tuner and your local ecu in sync.
 
+  
 
 ### 3D Tables
 - **Heatmaps** - Clear color-coded cells to help you see the map at a glance.
@@ -72,18 +74,20 @@ EpicTuner uses **.NET 9** and **Avalonia UI**.
 
 ### 2D Curves
 - **Visual Editing** - Drag points directly on the graph.
-- **Table Sync** - Spreadsheet view stays in sync with your graph changes.
+- **Table Sync** - Table view stays in sync with your graph changes.
 
 ### Monitoring
 - **Gauges** - Fast, smooth real-time monitoring.
 - **Indicators** - Status lights for things like sync, limits, and sensors.
 - **Graphs** - Scrolling time-series data for deep diagnostics.
+- **Image Wigets** - State based image widgets allow you to bind conditions to the image widgets to acivate based on ranges. 
 
 ### The UI
 - **Dark Mode** - High-contrast and easy on the eyes.
 - **Pop-out Windows** - Great for multi-monitor setups. Pull any table or gauge into its own window.
 - **Smart Tracking**: We track pop-out windows so you don't end up with duplicates by accident.
 - **Built-in Help**: Hover over fields to see the help text from the INI.
+- **Dash Mode**: A full on dashboard mode for use on something like a raspberry pi.
 
 ---
 
@@ -95,7 +99,7 @@ EpicTuner uses **.NET 9** and **Avalonia UI**.
 | macOS | ARM64 (Apple Silicon) | ✅ Supported |
 | macOS | X64 (Intel) | ✅ Supported |
 | Linux | x64 | ✅ Supported |
-| Linux | ARM64 | 🚧 In Progress |
+| Linux | ARM64 | ✅ Supported |
 
 ---
 
@@ -154,7 +158,7 @@ This software is developed under the principles established by [Sega v. Accolade
 **Alpha Release** - EpicTuner is currently in heavy development. 
 
 ### Heads up
-- Only tested on **RusEFI**, **EpicEFI**, **FOME** and **Speeduino** hardware.
+- Only tested on **rusEFI**, **epicEFI**, **FOME** and **Speeduino** hardware.
 - Plugin system is coming later.
 
 ### License
