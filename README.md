@@ -161,15 +161,16 @@ This software is developed under the principles established by [Sega v. Accolade
 - Only tested on **rusEFI**, **epicEFI**, **FOME** and **Speeduino** hardware.
 - Plugin system is coming later.
 
+### Sponsorships
+- EpicTuner is not sponsored by or affiliated with any specific hardware/firmware vendor although I am not against this. 
+- If any would like to sponsor the project and help shape the development of ET, or have custom feature requests that are not in the standard ini spec, please reachout to me on our discord you can find at the top of the readme. 
+
+
 ### License
-EpicTuner is **not open source** right now. 
+EpicTuner is **not** open source right now. 
 
-I am not sure if it will be. 
-
-But if it is, I'm leaning towards a GPL Flavored License, 
-
-but for now,
-this repo is for tracking bugs, docs, and alpha builds.
+For now,
+this repo is for version tracking, bugs, docs, and alpha builds.
 
 ---
 
