@@ -6,7 +6,7 @@
 
 [![Discord Chat](https://dcbadge.limes.pink/api/server/YfWXcVDauE)](https://discord.gg/YfWXcVDauE)
 
-**Modern ECU calibration software.** A fast, cross-platform alternative to TunerStudio, rebuilt from the ground up in C++ and Qt 6.
+**Modern ECU calibration software.** A fast, cross-platform alternative to TunerStudio, Built from the ground up in C++ and Qt 6.
 
 ### 📥 [Download EpicTuner at sgkembedded.com/epictuner](https://www.sgkembedded.com/epictuner)
 
@@ -68,7 +68,8 @@ Questions are welcome on [Discord](https://discord.gg/YfWXcVDauE).
 
 ## Trademarks
 
-EpicTuner is an independent project built for interoperability. It is not affiliated with, endorsed by or sponsored by Haltech, Speeduino, rusEFI, MegaSquirt (Bowling and Grippo) or EFI Analytics. All trademarks belong to their respective owners.
+EpicTuner is an independent project built for interoperability. It is not affiliated with, endorsed by or sponsored by Haltech, Speeduino, rusEFI, MegaSquirt (Bowling and Grippo) or EFI Analytics.
+All trademarks belong to their respective owners.
 
 ## 🔒 Status
 
