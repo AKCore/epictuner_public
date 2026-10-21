@@ -26,6 +26,7 @@ We're trying to build a modern alternative to TunerStudio.
 ## ✨ Inspiration
 
 - **TunerStudio/MegaSquirt**: We're aiming for full compatibility with the standard INI definition system so it works with the ECUs you already have.
+- **RusEFI/EpicEFI/FOME**: It's what we run on our ecus, and what we spend most of town working with! 
 - **Haltech NSP**: We love the high-end, integrated feel and layout of NSP and want to bring that experience to more users.
 
 ---
